@@ -1,0 +1,43 @@
+
+NETFLIX DATASET – EXPLORATORY DATA ANALYSIS SUMMARY
+==================================================
+
+Total Titles Analyzed: 8804
+
+Content Type Distribution:
+type
+Movie      6128
+TV Show    2676
+
+Top 10 Genres:
+listed_in
+International Movies        2752
+Dramas                      2427
+Comedies                    1674
+International TV Shows      1351
+Documentaries                869
+Action & Adventure           859
+TV Dramas                    763
+Independent Movies           756
+Children & Family Movies     641
+Romantic Movies              616
+
+Top 10 Release Years:
+release_year
+2018    1147
+2017    1031
+2019    1030
+2020     953
+2016     902
+2021     592
+2015     559
+2014     352
+2013     288
+2012     237
+
+Key Insights:
+- Movies dominate Netflix’s content library.
+- Strong acceleration in content production post-2015.
+- Drama and International content are the most frequent genres.
+- Majority of movies range between 80–120 minutes.
+- Netflix aggressively expanded its catalog between 2016–2020.
